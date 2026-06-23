@@ -1,8 +1,8 @@
 # About:
 - This is a test program that I am currently writing. 
 
-# Written by AJ Utz on 6/16/2026
-# Last Update: 6/22/2026
+Written by AJ Utz on 6/16/2026
+Last Update: 6/22/2026
 
 # Quick Run
 
